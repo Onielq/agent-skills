@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Istighfar — Dhikr Counter",
+  "short_name": "Istighfar",
+  "description": "A quiet, private counter for daily istighfar and dhikr.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f3ec",
+  "theme_color": "#183d32",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
